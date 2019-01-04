@@ -1,11 +1,19 @@
 /* CSS! */
+html {
+  height: 100%;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
 body {
   min-height: 100%;
   background: #F9F9F5;
   line-height: 1.25;
+  font-family: 'EB Garamond', serif;
   font-size: 1.1rem;
   font-style:normal;
   font-weight: normal;
   color: #696969;
   text-align: left;
 }
+
