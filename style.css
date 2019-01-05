@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700,700i');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700');
 
 body {
   background: #F9F9F5;
+  color: #909999;
   font-family: 'Cormorant Garamond', serif;
 }
 
